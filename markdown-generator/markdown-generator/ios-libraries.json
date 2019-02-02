@@ -1,0 +1,13 @@
+{
+    "sections": [
+        {
+            "name": "Networking",
+            "libraries": [{
+                "githubPath": "/Alamofire/Alamofire",
+                "name": "Alamofire"
+            }]
+        }
+
+
+    ]
+}
