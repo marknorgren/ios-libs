@@ -71,7 +71,33 @@ print(libList.debugDescription)
 
 
 
+var markdownTemplate = """
+    # iOS Libs
 
+    """
+
+guard let sections = libList?.sections else {
+    print("No sections.")
+    exit(1)
+}
+for section in sections {
+    let line = "\n## \(section.name)\n\n"
+    markdownTemplate.append(line)
+    for library in section.libraries {
+        let line = """
+          * [\(library.name)](https://github.com\(library.githubPath))
+            * ![GitHub stars](https://img.shields.io/github/stars\(library.githubPath).svg?style=social)\t
+              ![GitHub release](https://img.shields.io/github/release\(library.githubPath).svg?style=social)\t
+              ![codecov](https://img.shields.io/codecov/c/github\(library.githubPath).svg?style=social)\t
+              ![GitHub release](https://img.shields.io/cocoapods/p/\(library.name).svg?style=social)\t
+
+        """
+
+        markdownTemplate.append(line)
+    }
+}
+
+print(markdownTemplate)
 
 
 

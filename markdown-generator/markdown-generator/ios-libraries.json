@@ -2,12 +2,48 @@
     "sections": [
         {
             "name": "Networking",
-            "libraries": [{
-                "githubPath": "/Alamofire/Alamofire",
-                "name": "Alamofire"
-            }]
+            "libraries": [
+                {
+                    "githubPath": "/Alamofire/Alamofire",
+                    "name": "Alamofire"
+                },
+                {
+                    "githubPath": "/Moya/Moya",
+                    "name": "Moya"
+                },
+                {
+                    "githubPath": "/ishkawa/APIKit",
+                    "name": "APIKit"
+                },
+                {
+                    "githubPath": "/kasketis/netfox",
+                    "name": "netfox"
+                },
+                {
+                    "githubPath": "/p2/OAuth2",
+                    "name": "OAuth2"
+                },
+                {
+                    "githubPath": "/OAuthSwift/OAuthSwift",
+                    "name": "OAuthSwift"
+                },
+                {
+                    "githubPath": "/ashleymills/Reachability.swift",
+                    "name": "Reachability.swift"
+                },
+                {
+                    "githubPath": "/netguru/ResponseDetective",
+                    "name": "ResponseDetective"
+                },
+                {
+                    "githubPath": "/MLSDev/TRON",
+                    "name": "TRON"
+                },
+                {
+                    "githubPath": "/pmusolino/Wormholy",
+                    "name": "Wormholy"
+                }
+            ]
         }
-
-
     ]
 }
