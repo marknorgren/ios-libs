@@ -1,6 +1,44 @@
 {
     "sections": [
         {
+            "name": "Kechain Wrappers",
+            "libraries": [
+                {
+                    "githubPath": "/evgenyneu/keychain-swift",
+                    "name": "keychain-swift"
+                },
+                {
+                    "githubPath": "/kishikawakatsumi/KeychainAccess",
+                    "name": "KeychainAccess"
+                },
+                {
+                    "githubPath": "/DanToml/Latch",
+                    "name": "Latch"
+                },
+                {
+                    "githubPath": "/matthewpalmer/Locksmith",
+                    "name": "Locksmith"
+                },
+                {
+                    "githubPath": "/jrendel/SwiftKeychainWrapper",
+                    "name": "SwiftKeychainWrapper"
+                }
+            ]
+        },
+        {
+            "name": "Awesome Lists",
+            "libraries": [
+                {
+                    "githubPath": "/matteocrippa/awesome-swift",
+                    "name": "awesome-swift"
+                },
+                {
+                    "githubPath": "/vsouza/awesome-ios",
+                    "name": "awesome-ios"
+                }
+            ]
+        },
+        {
             "name": "Networking",
             "libraries": [
                 {
