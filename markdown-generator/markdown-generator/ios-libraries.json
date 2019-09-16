@@ -1,6 +1,13 @@
 {
     "sections": [
         {
+          "name": "Logging",
+          "libraries": [
+                "githubPath": "/DaveWoodCom/XCGLogger",
+                "name": "XCGLogger"
+           ]
+        },
+        {
             "name": "Kechain Wrappers",
             "libraries": [
                 {
