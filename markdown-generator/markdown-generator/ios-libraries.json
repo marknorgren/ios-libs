@@ -3,8 +3,10 @@
         {
           "name": "Logging",
           "libraries": [
+              {
                 "githubPath": "/DaveWoodCom/XCGLogger",
                 "name": "XCGLogger"
+              }
            ]
         },
         {
