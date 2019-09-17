@@ -10,7 +10,7 @@
            ]
         },
         {
-            "name": "Kechain Wrappers",
+            "name": "Keychain Wrappers",
             "libraries": [
                 {
                     "githubPath": "/evgenyneu/keychain-swift",
