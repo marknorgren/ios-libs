@@ -1,5 +1,33 @@
 # iOS Libs
 
+## Image Caching
+
+  * [AlamofireImage](https://github.com/Alamofire/AlamofireImage)
+    * ![GitHub stars](https://img.shields.io/github/stars/Alamofire/AlamofireImage.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/Alamofire/AlamofireImage.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/Alamofire/AlamofireImage.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/AlamofireImage.svg?style=social)	
+  * [Kingfisher](https://github.com/onevcat/Kingfisher)
+    * ![GitHub stars](https://img.shields.io/github/stars/onevcat/Kingfisher.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/onevcat/Kingfisher.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/onevcat/Kingfisher.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/Kingfisher.svg?style=social)	
+  * [Nuke](https://github.com/kean/Nuke)
+    * ![GitHub stars](https://img.shields.io/github/stars/kean/Nuke.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/kean/Nuke.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/kean/Nuke.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/Nuke.svg?style=social)	
+  * [HanekeSwift](https://github.com/Haneke/HanekeSwift)
+    * ![GitHub stars](https://img.shields.io/github/stars/Haneke/HanekeSwift.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/Haneke/HanekeSwift.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/Haneke/HanekeSwift.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/HanekeSwift.svg?style=social)	
+  * [SDWebImage](https://github.com/SDWebImage/SDWebImage)
+    * ![GitHub stars](https://img.shields.io/github/stars/SDWebImage/SDWebImage.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/SDWebImage/SDWebImage.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/SDWebImage/SDWebImage.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/SDWebImage.svg?style=social)	
+
 ## Logging
 
   * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)

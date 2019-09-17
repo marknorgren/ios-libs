@@ -1,6 +1,31 @@
 {
     "sections": [
         {
+            "name": "Image Caching",
+            "libraries": [
+                {
+                    "githubPath": "/Alamofire/AlamofireImage",
+                    "name": "AlamofireImage"
+                },
+                {
+                    "githubPath": "/onevcat/Kingfisher",
+                    "name": "Kingfisher"
+                },
+                {
+                    "githubPath": "/kean/Nuke",
+                    "name": "Nuke"
+                },
+                {
+                    "githubPath": "/Haneke/HanekeSwift",
+                    "name": "HanekeSwift"
+                },
+                {
+                    "githubPath": "/SDWebImage/SDWebImage",
+                    "name": "SDWebImage"
+                }
+            ]
+        },
+        {
           "name": "Logging",
           "libraries": [
               {
