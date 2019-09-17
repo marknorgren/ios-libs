@@ -33,7 +33,7 @@
       ![codecov](https://img.shields.io/codecov/c/github/fpillet/NSLogger.svg?style=social)	
       ![GitHub release](https://img.shields.io/cocoapods/p/NSLogger.svg?style=social)	
 
-## Kechain Wrappers
+## Keychain Wrappers
 
   * [keychain-swift](https://github.com/evgenyneu/keychain-swift)
     * ![GitHub stars](https://img.shields.io/github/stars/evgenyneu/keychain-swift.svg?style=social)	
