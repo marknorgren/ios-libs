@@ -6,6 +6,26 @@
               {
                 "githubPath": "/DaveWoodCom/XCGLogger",
                 "name": "XCGLogger"
+              },
+              {
+                "githubPath": "/emaloney/CleanroomLogger",
+                "name": "CleanroomLogger"
+              },
+              {
+                "githubPath": "/CocoaLumberjack/CocoaLumberjack",
+                "name": "CocoaLumberjack"
+              },
+              {
+                "githubPath": "/SwiftyBeaver/SwiftyBeaver",
+                "name": "SwiftyBeaver"
+              },
+              {
+                "githubPath": "/Nike-Inc/Willow",
+                "name": "Willow"
+              },
+              {
+                "githubPath": "/fpillet/NSLogger",
+                "name": "NSLogger"
               }
            ]
         },

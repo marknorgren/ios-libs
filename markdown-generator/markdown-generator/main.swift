@@ -53,8 +53,6 @@ private func getLibraryListFromFile(named: String, atPath path: String) -> Libra
             print("getJSONFile Error: \(error)")
             exit(1)
         }
-    print("Error with file path")
-    exit(1)
 }
 
 getJSONFilenameFromArg()
@@ -97,7 +95,17 @@ for section in sections {
     }
 }
 
-print(markdownTemplate)
+let pathURL = URL(fileURLWithPath: path)
+
+let filename = pathURL.appendingPathComponent("README.md")
+
+do {
+    try markdownTemplate.write(to: filename, atomically: true, encoding: String.Encoding.utf8)
+} catch {
+    print("Error: \(error)")
+}
+
+//print(markdownTemplate)
 
 
 
