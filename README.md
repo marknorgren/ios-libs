@@ -1,5 +1,37 @@
-
 # iOS Libs
+
+## Logging
+
+  * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
+    * ![GitHub stars](https://img.shields.io/github/stars/DaveWoodCom/XCGLogger.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/DaveWoodCom/XCGLogger.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/DaveWoodCom/XCGLogger.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/XCGLogger.svg?style=social)	
+  * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
+    * ![GitHub stars](https://img.shields.io/github/stars/emaloney/CleanroomLogger.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/emaloney/CleanroomLogger.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/emaloney/CleanroomLogger.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/CleanroomLogger.svg?style=social)	
+  * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+    * ![GitHub stars](https://img.shields.io/github/stars/CocoaLumberjack/CocoaLumberjack.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/CocoaLumberjack/CocoaLumberjack.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/CocoaLumberjack/CocoaLumberjack.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/CocoaLumberjack.svg?style=social)	
+  * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
+    * ![GitHub stars](https://img.shields.io/github/stars/SwiftyBeaver/SwiftyBeaver.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/SwiftyBeaver/SwiftyBeaver.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/SwiftyBeaver/SwiftyBeaver.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/SwiftyBeaver.svg?style=social)	
+  * [Willow](https://github.com/Nike-Inc/Willow)
+    * ![GitHub stars](https://img.shields.io/github/stars/Nike-Inc/Willow.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/Nike-Inc/Willow.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/Nike-Inc/Willow.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/Willow.svg?style=social)	
+  * [NSLogger](https://github.com/fpillet/NSLogger)
+    * ![GitHub stars](https://img.shields.io/github/stars/fpillet/NSLogger.svg?style=social)	
+      ![GitHub release](https://img.shields.io/github/release/fpillet/NSLogger.svg?style=social)	
+      ![codecov](https://img.shields.io/codecov/c/github/fpillet/NSLogger.svg?style=social)	
+      ![GitHub release](https://img.shields.io/cocoapods/p/NSLogger.svg?style=social)	
 
 ## Kechain Wrappers
 
@@ -94,4 +126,3 @@
       ![GitHub release](https://img.shields.io/github/release/pmusolino/Wormholy.svg?style=social)	
       ![codecov](https://img.shields.io/codecov/c/github/pmusolino/Wormholy.svg?style=social)	
       ![GitHub release](https://img.shields.io/cocoapods/p/Wormholy.svg?style=social)	
-
